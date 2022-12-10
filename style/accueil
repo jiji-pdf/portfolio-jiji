@@ -1,0 +1,48 @@
+h1{
+	text-align:center; 
+	margin-top:35px;
+	color:black;
+	Font-family: Copperplate, Copperplate Gothic Light, fantasy;
+}
+h2{
+	text-align:center; 
+	Font-family: Consolas, monaco, monospace;
+	font-size:20px;
+	
+}
+h3{
+	Font-family: Consolas, monaco, monospace;
+	font-size:20px;
+	
+}
+body{
+	
+	Font-family: Consolas, monaco, monospace;
+	font-size:20px;
+}
+
+
+p{
+	margin-left:200px;
+	Font-family: Consolas, monaco, monospace;
+	margin-top:5px;	
+	margin-bottom:5px;
+
+}
+a{
+	margin-left:200px;
+	Font-family: Consolas, monaco, monospace;
+	color:black;
+	margin-top:2px;	
+	margin-bottom:2px;
+
+}
+ul{
+	Font-family: Consolas, monaco, monospace;
+	margin-top:-400px;	
+	margin-bottom:5px;
+	margin-left: 320px;
+}
+img{
+	margin-left:220px;
+}
